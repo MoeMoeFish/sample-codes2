@@ -1,0 +1,8 @@
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+/src/router/
+/src/components/HelloWorld.vue
+/src/App.vue
